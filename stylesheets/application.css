@@ -1,0 +1,37 @@
+body {
+  font-family: "Comic Sans MS", sans-serif;
+  font-size: 24px;
+}
+
+.container {
+  clear: both;
+  margin: 0 auto;
+  width: 900px;
+}
+
+.left-column {
+  float: left;
+  width: 590px;
+}
+
+.right-column {
+  float: right;
+  width: 290px;
+}
+
+h3.top-tips {
+  color: rgb(235, 61, 0);
+}
+
+h3.pretty-good-tips {
+  color: rgb(255, 129, 0);
+}
+
+h3.just-okay-tips {
+  color: rgb(255, 212, 77);
+}
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+}
